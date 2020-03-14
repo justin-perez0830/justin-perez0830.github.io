@@ -1,0 +1,19 @@
+#mainNav, .copyright {
+  background-color: #4178ff !important;
+}
+
+.masthead.bg-primary {
+  background-color: #719FE8 !important;
+}
+
+#about {
+  background-color: #B8DBFF !important;
+}
+
+.buffer-zone {
+  padding: 15px;
+}
+
+.profile-pic {
+  width: 320px;
+}
